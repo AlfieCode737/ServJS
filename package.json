@@ -1,0 +1,12 @@
+{
+  "name": "railway-http-server",
+  "version": "1.0.0",
+  "description": "Simple HTTP server for Railway",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
